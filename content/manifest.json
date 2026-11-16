@@ -1,0 +1,49 @@
+{
+  "site": {
+    "title": "演算法期中複習室",
+    "subtitle": "Advanced Computer Algorithm"
+  },
+  "lectures": [
+    {
+      "id": "midterm-guide",
+      "title": "期中考複習講義",
+      "tab": "複習講義",
+      "summary": "ch1–ch2：Big-O、插入排序、二元搜尋；含隨堂練習詳解與考前 checklist。",
+      "file": "content/lectures/midterm-guide.md"
+    }
+  ],
+  "exams": [
+    {
+      "id": "exam0",
+      "title": "隨堂卷",
+      "tab": "隨堂卷",
+      "minutes": 90,
+      "file": "content/exams/exam0.md",
+      "solution": "content/exams/solutions/exam0.md"
+    },
+    {
+      "id": "exam1",
+      "title": "模擬考 1",
+      "tab": "模擬考 1",
+      "minutes": 100,
+      "file": "content/exams/exam1.md",
+      "solution": "content/exams/solutions/exam1.md"
+    },
+    {
+      "id": "exam2",
+      "title": "模擬考 2",
+      "tab": "模擬考 2",
+      "minutes": 100,
+      "file": "content/exams/exam2.md",
+      "solution": "content/exams/solutions/exam2.md"
+    },
+    {
+      "id": "exam3",
+      "title": "模擬考 3",
+      "tab": "模擬考 3",
+      "minutes": 100,
+      "file": "content/exams/exam3.md",
+      "solution": "content/exams/solutions/exam3.md"
+    }
+  ]
+}
